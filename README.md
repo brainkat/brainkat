@@ -15,16 +15,15 @@
 
 ---
 
-### 🧭 About Me
 
 I'm a full-stack engineer based in Seoul, fluent in both Korean and English, who has shipped production systems across micro-frontend React/TypeScript apps, Java Spring Boot microservices, and — most recently — LLM-powered platforms (RAG chatbots, AI agents, voice-based interview simulators). I enjoy owning a feature end-to-end: schema design → API → frontend → deployment → QA.
 
 I led a 3-person dev team on a production admin platform (SPC), built secure auth systems from scratch (JWT + SHA-512), and am now building AI agent pipelines with LangChain/LangGraph, FastAPI, and vector databases.
 
-- 🔭 Currently building **AI-integrated civic-tech & ed-tech platforms** (RAG chatbots, AI debate agents, voice-based interview coaching)
-- 🌱 Deepening expertise in **LLM agents, RAG architecture, and multi-service AI pipelines**
-- 🗣️ Native English & Korean — comfortable bridging engineering and stakeholder communication
-- 💬 Ask me about: micro-frontend architecture, JWT auth design, RAG pipelines, or Spring Boot + React integration
+-  Currently building **AI-integrated civic-tech & ed-tech platforms** (RAG chatbots, AI debate agents, voice-based interview coaching)
+-  Deepening expertise in **LLM agents, RAG architecture, and multi-service AI pipelines**
+-  Native English & Korean — comfortable bridging engineering and stakeholder communication
+-  Ask me about: micro-frontend architecture, JWT auth design, RAG pipelines, or Spring Boot + React integration
 
 ---
 
@@ -119,7 +118,7 @@ I led a 3-person dev team on a production admin platform (SPC), built secure aut
 
 ---
 
-### 🚀 Featured Projects at a Glance
+### 🚀 Projects
 
 | Project | What it does | Stack |
 |---|---|---|
