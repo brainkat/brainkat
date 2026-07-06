@@ -158,7 +158,7 @@ I led a 3-person dev team on a production admin platform (SPC), built secure aut
 
 </details>
 
-
+<!-- 
 ---
 
 ### 📊 GitHub Stats
@@ -177,6 +177,7 @@ I led a 3-person dev team on a production admin platform (SPC), built secure aut
 </p>
 
 ---
+-->
 
 ### 🚀 Projects
 
